@@ -1,3 +1,4 @@
+![](https://github.com/M-art-ucci/Manifesto_M/blob/main/Logos%20Artistas/Martucci_256.png)
 <!--
 ![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true "Mosaicron") Exibir Mosaicron, quando liberado para mobilização
 ![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true "Martucci") Exibir assinatura digital dos artistas, quando liberado
