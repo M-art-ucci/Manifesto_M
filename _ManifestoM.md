@@ -1,8 +1,8 @@
--->
+<!--
 ![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true "Mosaicron") Exibir Mosaicron, quando liberado para mobilização
 ![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true "Martucci") Exibir assinatura digital dos artistas, quando liberado
 ![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true "Última atualização") Exibir após modificações importantes
-<--/
+-->
 
 # Manifesto M: O Manifesto da Memória, da Máquina e da Mutação
 
